@@ -16,4 +16,14 @@
     display: block;
     padding: .5em;
     margin: .25em;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: blue;
 }
